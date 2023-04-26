@@ -18,14 +18,13 @@ A simple RESTful API for managing books using Node.js, Express, MongoDB, and Mon
 ## Installation
 
 1. Clone the repository:
-```
 
-'''
+
+
 git clone `https://github.com/simohammed-taher/rest_api_node_express_mongodb`
 
 rest_api_node_express_mongodb
 
-```
 
 2. Change to the project directory:
 
